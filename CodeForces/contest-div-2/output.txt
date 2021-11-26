@@ -1,0 +1,6 @@
+3
+0
+
+THIS IS A PYTHON OUTPUT FILE
+Time: 0.0000 seconds
+Thu Nov 25 19:04:16 2021
